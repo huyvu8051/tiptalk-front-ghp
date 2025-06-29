@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;88d501f7d6340e901fee4b4fba7d0cabec5c593dd1dc2bad120dfb37b0958e9a;/workspace/workspace/tiptalk-build-branch_main/tiptalk-front/src/app/features/streamer-list/streamer-list.component.ts"],
+  "sourcesContent": ["\n    .streamer-list-container {\n      padding: 2rem;\n      max-width: 1200px;\n      margin: 0 auto;\n    }\n\n    .streamer-list-card {\n      background: var(--bg-primary);\n      border-radius: 8px;\n      box-shadow: var(--shadow-md);\n      padding: 2rem;\n    }\n\n    .search-container {\n      margin-bottom: 1.5rem;\n    }\n\n    @media (max-width: 640px) {\n      .streamer-list-container {\n        padding: 1rem;\n      }\n\n      .streamer-list-card {\n        padding: 1.5rem;\n      }\n    }\n  "],
+  "mappings": "AACI,CAAC,wBADL,QAEe,KACT,UAAW,OAHjB,OAIc,EAAE,IACZ,CAEA,CAAC,mBACC,WAAY,IAAI,cARtB,cASqB,IACf,WAAY,IAAI,aAVtB,QAWe,IACX,CAEA,CAAC,iBACC,cAAe,MACjB,CAEA,OAAO,CAAC,SAAS,EAAE,OACjB,CAlBD,wBADL,QAoBiB,IACX,CAEA,CAhBD,mBAPL,QAwBiB,MACX,CACF",
+  "names": []
+}

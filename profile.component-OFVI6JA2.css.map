@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;c1bbe21715fe8d13ea4fc5765ac3a0b752f23a66ee219c691ceb294d227d668c;/workspace/workspace/tiptalk-build-branch_main/tiptalk-front/src/app/features/profile/profile.component.ts"],
+  "sourcesContent": ["\n    .profile-container {\n      padding: 2rem;\n      max-width: 800px;\n      margin: 0 auto;\n    }\n\n    .profile-card {\n      background: var(--bg-primary);\n      border-radius: 8px;\n      box-shadow: var(--shadow-md);\n      padding: 2rem;\n    }\n\n    .welcome-section {\n      display: flex;\n      flex-direction: column;\n      justify-content: space-between;\n      margin-bottom: 1.5rem;\n    }\n\n    .balance-section {\n      margin-bottom: 1.5rem;\n    }\n\n    @media (max-width: 640px) {\n      .profile-container {\n        padding: 1rem;\n      }\n\n      .profile-card {\n        padding: 1.5rem;\n      }\n    }\n  "],
+  "mappings": "AACI,CAAC,kBADL,QAEe,KACT,UAAW,MAHjB,OAIc,EAAE,IACZ,CAEA,CAAC,aACC,WAAY,IAAI,cARtB,cASqB,IACf,WAAY,IAAI,aAVtB,QAWe,IACX,CAEA,CAAC,gBACC,QAAS,KACT,eAAgB,OAChB,gBAAiB,cACjB,cAAe,MACjB,CAEA,CAAC,gBACC,cAAe,MACjB,CAEA,OAAO,CAAC,SAAS,EAAE,OACjB,CAzBD,kBADL,QA2BiB,IACX,CAEA,CAvBD,aAPL,QA+BiB,MACX,CACF",
+  "names": []
+}

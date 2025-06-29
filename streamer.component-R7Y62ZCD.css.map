@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;0aefd1b5a9061ee372c859bcb3a0d7b1238995dc30207b1a4346dd4daa2599b7;/workspace/workspace/tiptalk-build-branch_main/tiptalk-front/src/app/features/streamer/streamer.component.ts"],
+  "sourcesContent": ["\n      .donate-section {\n        margin-bottom: 2rem;\n      }\n\n      .history-section {\n        margin-top: 2rem;\n        padding-top: 1.5rem;\n        border-top: 1px solid var(--border-color);\n      }\n\n      .streamer-container {\n        padding: 2rem;\n        max-width: 800px;\n        margin: 0 auto;\n      }\n\n      .streamer-card {\n        background: var(--bg-primary);\n        border-radius: 8px;\n        box-shadow: var(--shadow-md);\n        padding: 2rem;\n      }\n\n      .welcome-section {\n        display: flex;\n        flex-direction: column;\n        justify-content: space-between;\n      }\n\n      .balance-section {\n        margin-bottom: 1.5rem;\n      }\n\n      @media (max-width: 640px) {\n        .streamer-container {\n          padding: 1rem;\n        }\n\n        .streamer-card {\n          padding: 1.5rem;\n        }\n      }\n    "],
+  "mappings": "AACM,CAAC,eACC,cAAe,IACjB,CAEA,CAAC,gBACC,WAAY,KACZ,YAAa,OACb,WAAY,IAAI,MAAM,IAAI,eAC5B,CAEA,CAAC,mBAXP,QAYiB,KACT,UAAW,MAbnB,OAcgB,EAAE,IACZ,CAEA,CAAC,cACC,WAAY,IAAI,cAlBxB,cAmBuB,IACf,WAAY,IAAI,aApBxB,QAqBiB,IACX,CAEA,CAAC,gBACC,QAAS,KACT,eAAgB,OAChB,gBAAiB,aACnB,CAEA,CAAC,gBACC,cAAe,MACjB,CAEA,OAAO,CAAC,SAAS,EAAE,OACjB,CAxBD,mBAXP,QAoCmB,IACX,CAEA,CAtBD,cAjBP,QAwCmB,MACX,CACF",
+  "names": []
+}

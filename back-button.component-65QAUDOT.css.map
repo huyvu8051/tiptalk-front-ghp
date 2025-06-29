@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["angular:styles/component:css;3166f7e7d26e111b4e7eb39ee08308c99142736c7f496c18ff24644657afc027;/workspace/workspace/tiptalk-build-branch_main/tiptalk-front/src/app/layouts/back-button/back-button.component.ts"],
+  "sourcesContent": ["\n    .back-button {\n      margin-bottom: 1.5rem;\n    }\n\n    .back-btn {\n      display: inline-flex;\n      align-items: center;\n      gap: 0.5rem;\n      padding: 0.5rem 1rem;\n      background-color: var(--bg-secondary);\n      border: 1px solid var(--border-color);\n      border-radius: 4px;\n      color: var(--text-secondary);\n      font-size: 0.9rem;\n      cursor: pointer;\n      transition: all 0.2s ease;\n      text-decoration: none;\n    }\n\n    .back-btn:hover {\n      background-color: var(--bg-hover);\n      border-color: var(--border-color);\n    }\n\n    .back-icon {\n      font-size: 1.1rem;\n    }\n  "],
+  "mappings": "AACI,CAAC,YACC,cAAe,MACjB,CAEA,CAAC,SACC,QAAS,YACT,YAAa,OACb,IAAK,MARX,QASe,MAAO,KAChB,iBAAkB,IAAI,gBACtB,OAAQ,IAAI,MAAM,IAAI,gBAX5B,cAYqB,IACf,MAAO,IAAI,kBACX,UAAW,MACX,OAAQ,QACR,WAAY,IAAI,IAAK,KACrB,gBAAiB,IACnB,CAEA,CAfC,QAeQ,OACP,iBAAkB,IAAI,YACtB,aAAc,IAAI,eACpB,CAEA,CAAC,UACC,UAAW,MACb",
+  "names": []
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["src/app/features/home/home.component.css"],
+  "sourcesContent": [".home {\n  background-color: red;\n}\n"],
+  "mappings": "AAAA,CAAC,KACC,iBAAkB,GACpB",
+  "names": []
+}
